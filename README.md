@@ -10,6 +10,6 @@ I have a in-depth programming knowledge in Python and JavaScript. I'm proficient
 - Bootstrap
 
 
-Additionally, I am competent with Django wen framework in back end.
+Additionally, I am competent with back end technologies such as Django web framework. 
 
 I am open for job opportunities or internship to improve my skills.
