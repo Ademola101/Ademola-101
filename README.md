@@ -13,3 +13,6 @@ I have a in-depth programming knowledge in Python and JavaScript. I'm proficient
 Additionally, I am competent with back end technologies such as Django web framework. 
 
 I am open for job opportunities or internship to improve my skills.
+
+
+https://github.com/anuraghazra/github-readme-stats
