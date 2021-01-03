@@ -15,4 +15,4 @@ Additionally, I am competent with back end technologies such as Django web frame
 I am open for job opportunities or internship to improve my skills.
 
 
-https://github.com/anuraghazra/github-readme-stats
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?Ademola101=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
