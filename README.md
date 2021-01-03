@@ -1,4 +1,12 @@
 # Ademola-101
+[![Ademola's github stats](https://github-readme-stats.vercel.app/api?username=Ademola101&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ademola101)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 Hello, my name is **Ademola Ogunmokun**. 
 
 A graduate of chemistry and a Full Stack developer.
@@ -15,8 +23,3 @@ Additionally, I am competent with back end technologies such as Django web frame
 I am open for job opportunities or internship to improve my skills.
 
 
-[![Ademola's github stats](https://github-readme-stats.vercel.app/api?username=Ademola101&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ademola101)](https://github.com/anuraghazra/github-readme-stats)
