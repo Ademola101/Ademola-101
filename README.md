@@ -9,7 +9,7 @@
 
 Hello, my name is **Ademola Ogunmokun**. 
 
-A graduate of chemistry and a Full Stack developer.
+A graduate of chemistry and a web developer.
 
 
 I have a in-depth programming knowledge in Python and JavaScript. I'm proficient with the following front-end tools
