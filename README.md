@@ -15,4 +15,4 @@ Additionally, I am competent with back end technologies such as Django web frame
 I am open for job opportunities or internship to improve my skills.
 
 
-[![Ademola's github stats](https://github-readme-stats.vercel.app/api?username=Ademola101&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Ademola's github stats](https://github-readme-stats.vercel.app/api?username=Ademola101&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
