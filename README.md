@@ -3,7 +3,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ademola101)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ademola101&exclude_repo=Data-visualization-)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
