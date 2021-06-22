@@ -7,11 +7,10 @@
 
 
 
-Hello, my name is **Ademola Ogunmokun** from Nigeria. I am a full stack developer with excellent problem solving skills.
+Hello, I am **Ademola**. I am a full stack developer with excellent problem solving skills.
 
 
 I have a in-depth programming knowledge in Python and JavaScript. I'm proficient with the following front-end tools
-- Vue
 - jQuery
 - Bootstrap
 
