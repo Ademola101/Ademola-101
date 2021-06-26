@@ -10,9 +10,7 @@
 Hello, I am **Ademola**. I am a full stack developer with excellent problem solving skills.
 
 
-I have a in-depth programming knowledge in Python and JavaScript. I'm proficient with the following front-end tools
-- jQuery
-- Bootstrap
+I have a in-depth programming knowledge in Python and JavaScript. I'm proficient with front-end tools, jQuery, Bootstrap etc.
 
 
 Additionally, I am competent with back end technologies such as Django web framework. 
