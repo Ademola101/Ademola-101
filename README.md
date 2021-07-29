@@ -2,7 +2,7 @@
 
 ![Github logo](/images/ADEMOLA.png)
 <p align="center">
-  <a href="https://twitter.com/Ademola101" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="shadrxcc"></a>
+  <a href="https://twitter.com/Ademola_isr" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Ademola"></a>
    <a href="https://www.linkedin.com/in/ademola-ogunmokun-492575203/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="shadrxcc"></a>
   <a href="https://www.instagram.com/kingisrael_12/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="shadrxcc"/></a>
 </p>
