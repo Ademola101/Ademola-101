@@ -8,7 +8,7 @@
 </p>
 
 # About me
-Hello :smile: I am **Ademola**, a full stack web developer with excellent problem solving skills.
+Hello :clap: I am **Ademola**, a full stack web developer with excellent problem solving skills.
 
 I am proficient working with Python and JavaScript programming language. I have worked with the following front-end technologies:
 * JQuery
