@@ -15,6 +15,7 @@ I am proficient working with Python and JavaScript programming language. I have 
 
 * JQuery
 * Vue
+  
 Additionally, I am also proficient with back-end framework such as Django web framework. I am currently learning Ruby on Rails and React.
 
 I :memo: write on technical topics and watch football in my free time :smile: .
