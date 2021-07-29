@@ -9,7 +9,7 @@
 
 ## About me
 
-Hello :raise_hand: I am **Ademola**, a full stack web developer with excellent problem solving skills.
+Hello :raised_hand: I am **Ademola**, a full stack web developer with excellent problem solving skills.
 
 I am proficient working with Python and JavaScript programming language. I have worked with the following front-end technologies:
 
