@@ -2,14 +2,18 @@
 
  ![Github logo](/images/ADEMOLA2.png)
 <p align="center">
+
   <a href="https://twitter.com/Ademola_isr" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Ademola"></a>
-   <a href="https://www.linkedin.com/in/ademola-ogunmokun-492575203/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="sademola"></a>
-  <a href="https://www.instagram.com/kingisrael12_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="shadrxcc"/></a>
+
+   <a href="https://www.linkedin.com/in/ademola-ogunmokun-492575203/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="ademola"></a>
+  <a href="https://www.instagram.com/kingisrael12_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="ademola"/></a>
+  <a href="https://dev.to/ademola_isr" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="ademola"/></a>
+  
 </p>
 
 ## About me
 
-Hello :raised_hand: I am **Ademola**, a full stack web developer with excellent problem solving skills.
+Hello :raised_hand: I am **Ademola**, a full stack web developer and technical writer.
 
 I am proficient working with Python and JavaScript programming language. I have worked with the following front-end technologies:
 
@@ -18,7 +22,7 @@ I am proficient working with Python and JavaScript programming language. I have 
   
 Additionally, I am also proficient with back-end framework such as Django web framework. I am currently learning Ruby on Rails and React.
 
-I :memo: write on technical topics and watch football in my free time :smile: .
+I :memo: [write](https://dev.to/ademola_isr) on technical topics and watch football in my free time :smile: .
 
 I am currently looking for new opportunity to create solution to digital problems and add values.
 
