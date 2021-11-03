@@ -14,17 +14,18 @@
 ## About me
 
 Hello :raised_hand: I am **Ademola**, a full stack web developer and technical writer.
-
-I am proficient working with Python and JavaScript programming language. I have worked with the following front-end technologies:
-
+ 
+I am proficient working with Python and JavaScript programming languages. I have worked with the following front-end technologies:
+ 
 * JQuery
 * Vue
-  
-Additionally, I am also proficient with back-end framework such as Django web framework. I am currently learning Ruby on Rails and React.
-
+ 
+Additionally, I am also proficient with back-end frameworks such as Django web framework. I am currently learning Ruby on Rails and React.
+ 
 I :memo: [write](https://dev.to/ademola_isr) on technical topics and watch football in my free time :smile: .
+ 
+I am currently looking for a new opportunity to create solutions to digital problems and add values.
 
-I am currently looking for new opportunity to create solution to digital problems and add values.
 
 
 [![Ademola's github stats](https://github-readme-stats.vercel.app/api?username=Ademola101&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
