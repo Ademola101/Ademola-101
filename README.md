@@ -21,6 +21,8 @@ I am proficient in working with Ruby, JavaScript and TypeScript programming lang
 
 **Front-End**: ReactJS, NextJS
 
+**Mobile**: React-Native
+
 **Back-End** :Ruby on Rails, NodeJS, ExpressJS
   
 I :memo: [write](https://dev.to/ademola_isr) on technical topics and watch football in my free time :smile: .
