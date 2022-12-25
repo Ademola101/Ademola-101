@@ -15,7 +15,7 @@
 
 Hello :raised_hand: I am **Ademola**, a full stack web developer and technical writer.
   
-I am proficient in working with Ruby, JavaScript and TypeScript programming languages to build excellent and scalable software applications.
+I am proficient in Ruby, JavaScript and TypeScript programming languages to build excellent and scalable software applications.
 
 ## **Tech Stack**
 
