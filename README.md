@@ -13,9 +13,11 @@
 
 ## About me
 
-Hello there! I'm Ademola, a full stack web developer and technical writer with a passion for creating scalable and efficient software applications. I have a strong foundation in Ruby, JavaScript, and TypeScript, and I am constantly learning and expanding my skillset.
+Hello there! I'm Ademola, a full stack web developerwith a passion for creating scalable and efficient software applications. I have a strong foundation in Ruby, JavaScript, and TypeScript.
 
-In my free time, you can find me writing about technical topics on my [blog](https://dev.to/ademola_isr) or cheering on my favorite football team. I am always open to new job opportunities and positions, so feel free to reach out to me on LinkedIn or Twitter.
+In my free time, you can find me writing about technical topics on my [blog](https://dev.to/ademola_isr) or cheering on my favorite football team.
+
+I am always open to new job opportunities and positions, so feel free to reach out to me on LinkedIn or Twitter.
 
 Thanks for stopping by!
 
