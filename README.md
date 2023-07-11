@@ -31,7 +31,6 @@ Thanks for stopping by!
   
 I :memo: [write](https://dev.to/ademola_isr) on technical topics and watch football in my free time :smile: .
   
-I am currently open to job offers and positions
 
 [![Ademola's github stats](https://github-readme-stats.vercel.app/api?username=Ademola101&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
