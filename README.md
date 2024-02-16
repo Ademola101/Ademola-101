@@ -1,4 +1,4 @@
-# Ademola-101
+# Ademola101
 
  
 <p align="center">
