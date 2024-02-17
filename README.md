@@ -12,12 +12,8 @@
 </p>
 
 ## About me
+Passionate Software Developer. Lover of TypeScript. Technical Writer
 
-Hello there! I'm Ademola, a software engineer with a passion for creating scalable and efficient software applications. I have a strong foundation in Ruby, JavaScript, and TypeScript.
-
-
-
-Thanks for stopping by!
 
 ## **Tech Stack**
 
@@ -27,7 +23,7 @@ Thanks for stopping by!
 
 **Back-End** :Ruby on Rails, NodeJS, ExpressJS
   
-I :memo: [write](https://dev.to/ademola_isr) on technical topics and watch football in my free time :smile: .
+
   
 
 [![Ademola's github stats](https://github-readme-stats.vercel.app/api?username=Ademola101&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
