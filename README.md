@@ -12,7 +12,7 @@
 </p>
 
 ## About me
-Passionate Software Developer. Lover of TypeScript. Technical Writer
+Passionate Software Developer
 
 
 ## **Tech Stack**
