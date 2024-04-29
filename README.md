@@ -17,11 +17,11 @@ Passionate Software Developer
 
 ## **Tech Stack**
 
-**Front-End**: ReactJS, NextJS
+**Front-End**: React
 
 **Mobile**: React-Native
 
-**Back-End** :Ruby on Rails, NodeJS, ExpressJS
+**Back-End**: NodeJS
   
 
   
