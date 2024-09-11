@@ -12,7 +12,7 @@
 </p>
 
 ## About me
-Passionate Software Developer
+Software Developer
 
 
 ## **Tech Stack**
